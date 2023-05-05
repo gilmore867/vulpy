@@ -1,9 +1,10 @@
 click
 cryptography
-Flask
+Flask==2.3.1
 geoip2
 jsonschema
 PyJWT
 pyotp
 qrcode
 requests
+django==1.11
